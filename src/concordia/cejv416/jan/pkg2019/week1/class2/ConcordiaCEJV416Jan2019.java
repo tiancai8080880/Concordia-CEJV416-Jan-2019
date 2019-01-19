@@ -16,6 +16,7 @@ public class ConcordiaCEJV416Jan2019 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("my first github project");
     }
     
 }
